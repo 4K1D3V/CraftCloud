@@ -2,7 +2,7 @@
 
 Welcome to the **CraftCloud** GitHub repository! 🌤️
 
-This is the central hub for all our development activities, focusing on providing top-notch hosting services for **Minecraft** servers and **Discord bots**. Here, you'll find the latest updates, code, and resources that power our innovative hosting solutions.
+This is the central hub for all our development activities, focusing on providing top-notch hosting services for **Minecraft** servers and **Discord bots**. Here, you'll find the latest updates, code, and resurces that power our innovative hosting solutions.
 
 ## About CraftCloud
 
