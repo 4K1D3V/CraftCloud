@@ -1,3 +1,5 @@
-Here i fuck little chil- I MEAN WORK ON CRAFTCLOUD FR [Aqua]
+# Welcome to CraftCloud!
 
-Here i fucking drills  - I MEAN DEVELOP ON CRAFTCLOUD FR [Aki]
+CraftCloud is an up and coming hosting company.
+
+This repo is where we will do all of our development.
