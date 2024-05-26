@@ -24,6 +24,6 @@ We welcome contributions! To add a new egg or improve existing ones, follow thes
     - Push your changes to your forked repository.
    ```sh
     git push origin add-new-egg
-    - Create a pull request to merge your changes into the main repository.
+5. **Create a pull request to merge your changes into the main repository.**
 ---
 *CraftCloud - Elevating Your Gaming and Social Experience.*
