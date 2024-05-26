@@ -1,6 +1,6 @@
 # CraftCloud Eggs
 
-Welcome to the **Craft Eggs** repository! This repository contains a collection of Pterodactyl egg configurations for various games and applications, used by CraftCloud.
+Welcome to the **CraftCloud Eggs** repository! This repository contains a collection of Pterodactyl egg configurations for various games and applications, used by CraftCloud.
 
 ## Available Eggs
 
