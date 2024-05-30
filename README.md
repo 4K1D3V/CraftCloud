@@ -52,7 +52,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Stay Connected
 
-- **Website**: [craftcloud.com](https://test.com)
+- **Website**: [craftcloud.host](https://craftcloud.host)
 - **Discord**: [Join our Discord](https://discord.gg/WyQWYdE5we)
 - **Twitter**: [Follow us on Twitter](https://twitter.com/bensmatthews10)
 
